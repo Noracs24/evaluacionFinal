@@ -1,0 +1,27 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto mixto JavaScript/Python con estructura mantenida",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "test:watch": "jasmine --watch",
+    "test:ci": "npm ci && npx jasmine",
+    "build:js": "echo 'Build JavaScript files in src/js/'",
+    "build:py": "echo 'Build Python files in src/python/'"
+  },
+  "devDependencies": {
+    "jasmine": "^5.0.0",
+    "jasmine-console-reporter": "^3.1.0",
+    "jasmine-spec-reporter": "^7.0.0"
+  },
+  "keywords": [
+    "testing",
+    "jasmine",
+    "integration",
+    "javascript",
+    "python"
+  ],
+  "author": "",
+  "license": "ISC"
+}

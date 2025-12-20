@@ -1,0 +1,4 @@
+# .cursorrules
+Framework: Jasmine
+Mocks: jasmine.createSpy()
+Estructura: describe > it
