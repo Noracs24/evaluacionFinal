@@ -31,7 +31,22 @@ npm test
 
 
 # Extensión del Algoritmo de Búsqueda Binaria
-Implementación de búsqueda binaria con pruebas avanzadas: Property-based testing, Mutation testing y Contract testing.
+Implementación de búsqueda binaria con pruebas avanzadas
+
+<img width="835" height="527" alt="image" src="https://github.com/user-attachments/assets/822ce84b-2f5f-4f45-b191-64f9bb023cf4" />
+#### Property-based testing
+
+<img width="1181" height="370" alt="image" src="https://github.com/user-attachments/assets/e8d7a91e-a07a-4e67-9c51-5a8317301045" />
+
+#### Mutation testing.
+
+<img width="735" height="393" alt="image" src="https://github.com/user-attachments/assets/ee83697b-d725-4dfe-88b5-eaa7cb99b417" />
+
+#### Contract testing.
+
+<img width="1182" height="212" alt="image" src="https://github.com/user-attachments/assets/02e35536-84f3-41d7-bc3a-1301da16b3ea" />
+
+
 ##  Descripcion 
 Este proyecto extiende el algoritmo de búsqueda binaria con un conjunto completo de pruebas que garantizan su correctitud y robustez.
 ##  Instalación
