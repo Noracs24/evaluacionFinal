@@ -22,8 +22,6 @@ Validación automática de tipos usando typeof y Array.isArray().
 - Viñeta 1 Enteros positivos/negativos
 - Viñeta 2 Decimales
 - Viñeta 3 Conversiones implícitas
- ###  Pruebas de Mutación
-Se ejecutaron pruebas de mutación con Mutmut para verificar la robustez de los tests.Validación automática de tipos usando typeof y Array.isArray().
 ## Tecnologias
 - Viñeta 1  Framework de testing
 - Viñeta 2 Entorno de ejecución
