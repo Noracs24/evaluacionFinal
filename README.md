@@ -31,6 +31,9 @@ Implementación de búsqueda binaria con pruebas avanzadas
 
 <img width="835" height="527" alt="image" src="https://github.com/user-attachments/assets/822ce84b-2f5f-4f45-b191-64f9bb023cf4" />
 
+##  Descripcion 
+Este proyecto extiende el algoritmo de búsqueda binaria con un conjunto completo de pruebas que garantizan su correctitud y robustez.
+
 #### Property-based testing
 
 <img width="1181" height="370" alt="image" src="https://github.com/user-attachments/assets/e8d7a91e-a07a-4e67-9c51-5a8317301045" />
@@ -43,12 +46,35 @@ Implementación de búsqueda binaria con pruebas avanzadas
 
 <img width="1182" height="212" alt="image" src="https://github.com/user-attachments/assets/02e35536-84f3-41d7-bc3a-1301da16b3ea" />
 
-
-##  Descripcion 
-Este proyecto extiende el algoritmo de búsqueda binaria con un conjunto completo de pruebas que garantizan su correctitud y robustez.
 ##  Instalación
 ### Instalar dependencias
 pip install pytest hypothesis icontract mutmut
 ### Ejecutar pruebas
 pytest
+
+# Métricas Avanzadas de Calidad
+Implementación de un sistema de métricas para evaluar la calidad del código y de las pruebas del algoritmo de búsqueda binaria, más allá de la cobertura tradicional.
+
+##  Descripcion 
+Analizar la calidad del software y del proceso de testing mediante métricas avanzadas que permitan, evaluar la complejidad, detectar pruebas inestables, medir la escala de rendimiento, analiyar la relacion entre cobertura de codigo y deteccion real de defectos
+
+#### Detección de pruebas inestables (Flaky Tests)
+
+<img width="806" height="136" alt="image" src="https://github.com/user-attachments/assets/4aa44438-2e0d-4a5a-bcc0-09f090e05b7f" />
+
+#### Análisis de tiempo de ejecución
+
+<img width="770" height="339" alt="image" src="https://github.com/user-attachments/assets/8620ffb8-822e-4dc3-8ced-940bdbdef60e" />
+
+####  Relación entre cobertura y defectos detectados
+
+<img width="788" height="301" alt="image" src="https://github.com/user-attachments/assets/34bb147e-10b5-43e2-95d0-8868479cf0d9" />
+
+####  Complejidad ciclomática por prueba
+
+<img width="777" height="238" alt="image" src="https://github.com/user-attachments/assets/f7dad988-af05-468a-81d9-c005c03cd0f6" />
+
+
+
+
 
