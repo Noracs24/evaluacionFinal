@@ -1,5 +1,5 @@
-# evaluacionFinal
-##  Mini-Framework Híbrido de Testing
+# EvaluacionFinal
+#  Mini-Framework Híbrido de Testing
 Framework de pruebas basado en Jasmine con funcionalidades avanzadas para pruebas de integración, mocking y validación de tipos.
 ##  Descripcion 
 Este proyecto implementa un mini-framework híbrido que extiende las capacidades de Jasmine, proporcionando: 
@@ -15,7 +15,7 @@ npm install
 npm test
 
 
-## Extensión del Algoritmo de Búsqueda Binaria
+# Extensión del Algoritmo de Búsqueda Binaria
 Implementación de búsqueda binaria con pruebas avanzadas: Property-based testing, Mutation testing y Contract testing.
 ##  Descripcion 
 Este proyecto extiende el algoritmo de búsqueda binaria con un conjunto completo de pruebas que garantizan su correctitud y robustez.
