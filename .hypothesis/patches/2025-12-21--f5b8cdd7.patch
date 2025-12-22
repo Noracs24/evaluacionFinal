@@ -1,0 +1,33 @@
+From HEAD Mon Sep 17 00:00:00 2001
+From: Hypothesis 6.148.7 <no-reply@hypothesis.works>
+Date: Sun, 21 Dec 2025 15:41:55
+Subject: [PATCH] Hypothesis: add explicit examples
+
+---
+--- ./tests/pruebasPy/pruebasPropiedades.py
++++ ./tests/pruebasPy/pruebasPropiedades.py
+@@ -48,19 +48,21 @@
+     assert resultado_iterativo == resultado_recursivo
+ 
+ @given(st.lists(st.integers(), min_size=1, max_size=20).map(sorted))
++@example(lista=[0, 0, 0]).via("discovered failure")
++@example(lista=[0, 0]).via("discovered failure")
+ def test_propiedad_extremos_ordenados(lista):
+     """
+     Verifica propiedades de búsqueda en extremos de listas ordenadas.
+     """
+     # Primer elemento
+     assert busqueda_binaria(lista, lista[0]) == 0
+-    
++
+     # Último elemento
+     assert busqueda_binaria(lista, lista[-1]) == len(lista) - 1
+-    
++
+     # Elemento no existente menor que el mínimo
+     assert busqueda_binaria(lista, lista[0] - 1) == -1
+-    
++
+     # Elemento no existente mayor que el máximo
+     assert busqueda_binaria(lista, lista[-1] + 1) == -1
+ 

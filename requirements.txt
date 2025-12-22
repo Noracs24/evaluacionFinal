@@ -1,0 +1,49 @@
+# === CORE DEPENDENCIES (CORREGIDO) ===
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-xdist>=3.3.0
+
+# === CONTRACT TESTING ===
+hypothesis>=6.148.7
+icontract>=2.7.2
+
+# === MUTATION TESTING ===
+mutmut>=2.4.0
+pytest-flakefinder>=1.1.0
+flaky>=3.8.1
+
+# === DEVELOPMENT TOOLS ===
+pytest-asyncio>=0.21.0
+pytest-mock>=3.11.0
+pytest-rerunfailures>=16.1
+pytest-html>=4.1.1
+pytest-timeout>=2.4.0
+pytest-sugar>=1.1.1
+
+# === CODE ANALYSIS ===
+radon>=6.0.1
+coverage>=7.3.0
+flake8>=7.3.0
+pylint>=3.0.0
+black>=25.12.0
+isort>=5.12.0
+mypy>=1.19.1
+
+# === DOCUMENTATION (VERSIÓN COMPATIBLE) ===
+sphinx>=6.0.0,<9.0.0
+sphinx-rtd-theme>=3.0.2
+
+# === VISUALIZATION & REPORTING ===
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+pandas>=2.3.3
+streamlit>=1.52.2
+dash>=3.3.0
+jupyter>=1.0.0
+
+# === PERFORMANCE BENCHMARKING ===
+pytest-benchmark>=5.2.3
+memory-profiler>=0.61.0
+line-profiler>=4.1.0
+pytest-profiling>=1.8.1
