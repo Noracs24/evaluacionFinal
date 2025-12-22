@@ -13,6 +13,7 @@ git clone https://github.com/tu-usuario/tu-repositorio.git
 npm install
 ### Ejecutar pruebas
 npm test
+
 <img width="874" height="629" alt="image" src="https://github.com/user-attachments/assets/cc6059d5-dc10-403f-95fa-5345a5daa817" />
 
 
