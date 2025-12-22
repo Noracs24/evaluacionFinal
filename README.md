@@ -19,8 +19,6 @@ Este proyecto implementa un mini-framework híbrido que extiende las capacidades
 <img width="796" height="618" alt="image" src="https://github.com/user-attachments/assets/63a52278-bc96-44fb-b783-9b3ef9a594cf" />
 
 ##  Instalación
-### Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repositorio.git
 ### Instalar dependencias
 npm install
 ### Ejecutar pruebas
@@ -28,12 +26,11 @@ npm test
 
 <img width="874" height="629" alt="image" src="https://github.com/user-attachments/assets/cc6059d5-dc10-403f-95fa-5345a5daa817" />
 
-
-
 # Extensión del Algoritmo de Búsqueda Binaria
 Implementación de búsqueda binaria con pruebas avanzadas
 
 <img width="835" height="527" alt="image" src="https://github.com/user-attachments/assets/822ce84b-2f5f-4f45-b191-64f9bb023cf4" />
+
 #### Property-based testing
 
 <img width="1181" height="370" alt="image" src="https://github.com/user-attachments/assets/e8d7a91e-a07a-4e67-9c51-5a8317301045" />
@@ -50,8 +47,6 @@ Implementación de búsqueda binaria con pruebas avanzadas
 ##  Descripcion 
 Este proyecto extiende el algoritmo de búsqueda binaria con un conjunto completo de pruebas que garantizan su correctitud y robustez.
 ##  Instalación
-### Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repositorio.git
 ### Instalar dependencias
 pip install pytest hypothesis icontract mutmut
 ### Ejecutar pruebas
