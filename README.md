@@ -14,7 +14,7 @@ Este proyecto implementa un mini-framework híbrido que extiende las capacidades
 
 <img width="840" height="460" alt="image" src="https://github.com/user-attachments/assets/bcf877f6-63e5-4c36-8063-feb547754e5c" />
 
-####Generación de pruebas basada en tipos con validación automática
+#### Generación de pruebas basada en tipos con validación automática
 
 <img width="796" height="618" alt="image" src="https://github.com/user-attachments/assets/63a52278-bc96-44fb-b783-9b3ef9a594cf" />
 
