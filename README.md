@@ -18,6 +18,9 @@ Este proyecto implementa un mini-framework híbrido que extiende las capacidades
 
 <img width="796" height="618" alt="image" src="https://github.com/user-attachments/assets/63a52278-bc96-44fb-b783-9b3ef9a594cf" />
 
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/a825e8f2-157a-471d-a081-9969d3389ce8" />
+
+
 ##  Instalación
 ### Instalar dependencias
 npm install
